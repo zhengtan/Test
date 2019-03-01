@@ -6,4 +6,7 @@
 </script>
 
 <style>
+#aaaaaa{
+	color: #ffffff;
+}
 </style>
